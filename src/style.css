@@ -1,0 +1,38 @@
+/* .teste{
+    position: fixed;
+    top: 0;
+    width: 100%;
+} */
+
+.imagem__carousel-um{
+    object-fit: cover;
+    object-position: 0 60%;
+    height: 400px;
+}
+.imagem__carousel-dois{
+    object-fit: cover;
+    height: 400px;
+}
+
+.font-title{
+    font-family: 'Pacifico', cursive;
+    color: cornsilk;
+}
+.vermelho{
+    color: darkred;
+}
+.botao-vermelho{
+    background-color: darkred;
+    border: none;
+    color: cornsilk;
+}
+.borda-vermelho{
+    border-color: darkred;
+}
+.card-largura{
+    max-width: 18rem;
+}
+.imagem-padrao{
+    height: 200px;
+    object-fit: cover;
+}
