@@ -1,2 +1,2 @@
-# Fruta Truto 
-Projeto web Fruta Truto usando Bootstrap
+# Fruta Fruto 
+Projeto web Fruta Fruto usando Bootstrap
